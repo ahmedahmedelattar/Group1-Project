@@ -1,4 +1,4 @@
-# Group1-Project
+# Secure Small Network
 #Must have packet tracer to test and view the topology.
 #read the attached report to view the configuration and uderstand the purpose of the project
 
